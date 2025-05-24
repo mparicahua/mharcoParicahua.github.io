@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
 <p align="center">
-  <img src="assets/IMAGES/preview.jpg" alt="Preview del Portafolio" width="600">
+  <img src="assets/images/preview.jpg" alt="Preview del Portafolio" width="600">
 </p>
 
 ## 🌟 Sobre el Proyecto
