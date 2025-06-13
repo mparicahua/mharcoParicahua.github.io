@@ -57,4 +57,4 @@ Portafolio profesional desarrollado como vitrina digital para mostrar mis habili
 
 1. **Visitar el portafolio online:**
    ```bash
-   Abre https://mparicahua.github.io/mharcoParicahua.github.io/ en tu navegador
+   https://mparicahua.github.io/mharcoParicahua.github.io/
