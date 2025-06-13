@@ -11,13 +11,6 @@
 
 Portafolio profesional desarrollado como vitrina digital para mostrar mis habilidades, experiencia y proyectos como Desarrollador de Software especializado en tecnologías .NET y web.
 
-**Características principales:**
-- ✅ Diseño moderno estilo GitHub
-- ✅ Totalmente responsive (móvil, tablet, desktop)
-- ✅ Optimizado para SEO
-- ✅ Organización clara de información profesional
-- ✅ Integración con GitHub Pages
-
 ## 🛠 Tecnologías Utilizadas
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
